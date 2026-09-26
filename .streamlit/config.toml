@@ -1,0 +1,11 @@
+# Soft, nude colour theme (used by Streamlit itself; extra polish lives in app.py)
+[theme]
+base = "light"
+primaryColor = "#9C6F5F"
+backgroundColor = "#F8F2EC"
+secondaryBackgroundColor = "#EFE3D8"
+textColor = "#4B3F3A"
+font = "sans serif"
+
+[server]
+headless = true
